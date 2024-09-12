@@ -1,0 +1,15 @@
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\bin\Debug\net8.0\knowledgecheck2.exe
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\bin\Debug\net8.0\knowledgecheck2.deps.json
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\bin\Debug\net8.0\knowledgecheck2.runtimeconfig.json
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\bin\Debug\net8.0\knowledgecheck2.dll
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\bin\Debug\net8.0\knowledgecheck2.pdb
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\obj\Debug\net8.0\knowledgecheck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\obj\Debug\net8.0\knowledgecheck2.AssemblyInfoInputs.cache
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\obj\Debug\net8.0\knowledgecheck2.AssemblyInfo.cs
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\obj\Debug\net8.0\knowledgecheck2.csproj.CoreCompileInputs.cache
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\obj\Debug\net8.0\knowledgecheck2.sourcelink.json
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\obj\Debug\net8.0\knowledgecheck2.dll
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\obj\Debug\net8.0\refint\knowledgecheck2.dll
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\obj\Debug\net8.0\knowledgecheck2.pdb
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\obj\Debug\net8.0\knowledgecheck2.genruntimeconfig.cache
+C:\Users\Clay Grant\Documents\C#\knowledgecheck2\knowledgecheck2\knowledgecheck2\obj\Debug\net8.0\ref\knowledgecheck2.dll
